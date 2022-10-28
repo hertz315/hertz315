@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hertz315
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning Swfit
+- 🌱 I’m currently learning Combine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kakao ID BoomBaYa7
 
