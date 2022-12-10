@@ -2,9 +2,13 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Combine
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kakao ID: BoomBaYa7 / Gamil: hertz315@gmail.com
+- 📫 How to reach me 
+- kakao ID: BoomBaYa7 
+- Gamil: hertz315@gmail.com
+- phone: 01099623015
 
-# 어제보다 오늘더 성장한 개발자, 도전에 유연하고 실패를 두려워하지 않는 터프한 개발자 이홍구입니다. 
+# 어제보다 오늘더 성장한 개발자 
+# 도전에 유연하고 실패를 두려워하지 않는 터프한 개발자 이홍구입니다. 
 ### 깔끔한 코딩을 선호합니다 
 ### 코딩스타일: https://gist.github.com/hertz315
 ### 기술 가리지 않습니다 새로운 기술을 배우는것을 좋아합니다 
